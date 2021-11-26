@@ -1,0 +1,20 @@
+PODS:
+  - eIDWebRTC (1.1.32)
+  - VideoID (7.1.19):
+    - eIDWebRTC (= 1.1.32)
+
+DEPENDENCIES:
+  - VideoID (~> 7.1.19)
+
+SPEC REPOS:
+  trunk:
+    - eIDWebRTC
+    - VideoID
+
+SPEC CHECKSUMS:
+  eIDWebRTC: 0088b60c3d9e0ee0f912464958dcea5e5f8db105
+  VideoID: fac204ba115eab44cfd4c018bd4f1a7b72bbf696
+
+PODFILE CHECKSUM: 3eb748706223cc4ed3001f2f1e3445492f0762fd
+
+COCOAPODS: 1.10.2

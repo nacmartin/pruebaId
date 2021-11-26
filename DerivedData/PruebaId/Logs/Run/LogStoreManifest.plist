@@ -5,6 +5,41 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>A4C23B23-A797-4B0F-ADFA-943B5F4DC73F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A4C23B23-A797-4B0F-ADFA-943B5F4DC73F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PruebaId project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PruebaId</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PruebaId</string>
+			<key>timeStartedRecording</key>
+			<real>659362470.709108</real>
+			<key>timeStoppedRecording</key>
+			<real>659364213.28197205</real>
+			<key>title</key>
+			<string>Run PruebaId</string>
+			<key>uniqueIdentifier</key>
+			<string>A4C23B23-A797-4B0F-ADFA-943B5F4DC73F</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
